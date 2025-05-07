@@ -13,8 +13,8 @@
 #+REVEAL_PLUGINS: (multiplex)
 #+REVEAL_EXTRA_JS: https://cdn.jsdelivr.net/npm/reveal.js/plugin/multiplex/master.js
 #+REVEAL_EXTRA_JS: https://cdn.jsdelivr.net/npm/reveal.js/plugin/multiplex/client.js
-#+REVEAL_MULTIPLEX_ID: e5ed8cd692ca7bfd
-#+REVEAL_MULTIPLEX_SECRET: 17465795172211447905
+#+REVEAL_MULTIPLEX_ID: b6809d1440929cf0
+#+REVEAL_MULTIPLEX_SECRET: 17465955999008563836
 #+REVEAL_MULTIPLEX_URL: https://reveal-multiplex.glitch.me
 #+REVEAL_MULTIPLEX_SOCKETIO_URL: https://reveal-multiplex.glitch.me/socket.io/socket.io.js
 
