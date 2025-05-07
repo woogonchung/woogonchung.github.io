@@ -11,12 +11,12 @@
 #+REVEAL_EXTRA_SCRIPT: for(let e of document.getElementsByClassName("figure-number")){e.parentElement.classList.add("fig-caption");}
 #+REVEAL_TITLE_SLIDE: <h2 class="title">%t</h2>%s<br><br>%a<br>%d
 #+REVEAL_PLUGINS: (multiplex)
-#+REVEAL_EXTRA_JS: https://cdn.jsdelivr.net/npm/reveal.js/plugin/multiplex/master.js
-#+REVEAL_EXTRA_JS: https://cdn.jsdelivr.net/npm/reveal.js/plugin/multiplex/client.js
+# #+REVEAL_EXTRA_JS: https://cdn.jsdelivr.net/npm/reveal.js/plugin/multiplex/master.js
+# #+REVEAL_EXTRA_JS: https://cdn.jsdelivr.net/npm/reveal.js/plugin/multiplex/client.js
 #+REVEAL_MULTIPLEX_ID: b6809d1440929cf0
 #+REVEAL_MULTIPLEX_SECRET: 17465955999008563836
 #+REVEAL_MULTIPLEX_URL: https://reveal-multiplex.glitch.me
-#+REVEAL_MULTIPLEX_SOCKETIO_URL: https://reveal-multiplex.glitch.me/socket.io/socket.io.js
+# #+REVEAL_MULTIPLEX_SOCKETIO_URL: https://reveal-multiplex.glitch.me/socket.io/socket.io.js
 
 * 목장소개
 VIP대상자
