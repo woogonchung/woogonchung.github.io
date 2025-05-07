@@ -1,0 +1,29 @@
+#+TITLE: 목장이 뭐예요?
+#+SUBTITLE: 산성동목장 (최미경(목자),김선희,정우곤)
+#+AUTHOR: 정우곤집사
+#+DATE: 2025-05-07 (수)
+#+REVEAL_HLEVEL: 1
+#+OPTIONS: toc:nil num:nil html-postamble:nil ^:{} reveal_title_slide:nil
+# #+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_THEME: league
+#+REVEAL_EXTRA_CSS: ./style.css
+#+REVEAL_INIT_OPTIONS: slideNumber:"c/t", transition:"none", transitionSpeed:"fast", controlsTutorial:false, minScale:1.0, maxScale:1.5
+#+REVEAL_EXTRA_SCRIPT: for(let e of document.getElementsByClassName("figure-number")){e.parentElement.classList.add("fig-caption");}
+#+REVEAL_TITLE_SLIDE: <h2 class="title">%t</h2>%s<br><br>%a<br>%d
+
+* 목장소개
+VIP대상자
+| 윤민숙 | 송석일 |김점용 | 김승근 |
+| 충기공3 |충기공3 | | |
+
+* This is the first slide
+It has some content
+
+* This is a second slide
+** It has sub-sections
+these render as other slides
+** last sub-section
+- you can navigate main sections using left/right
+- or navigate sub-sections with up/down
+* The End
+thanks!
